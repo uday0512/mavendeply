@@ -17,8 +17,8 @@
   </dependencies>
   <distributionManagement>
   <snapshotRepository>
-  <id>DXE</id>
-  <url>http://localhost:8081/nexus/content/repositories/DXE/</url>
+  <id>ddd</id>
+  <url>http://localhost:8081/nexus/content/repositories/ddd/</url>
   </snapshotRepository>
   </distributionManagement>
   
