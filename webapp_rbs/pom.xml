@@ -22,7 +22,7 @@
   </snapshotRepository>
   </distributionManagement>
   
-  <!--build>
+  <build>
     <finalName>webapp_rbs</finalName>
       <plugins>
        <plugin>
@@ -37,6 +37,6 @@
       </plugin>
       </plugins>
  
-  </build-->
+  </build>
   
 </project>
